@@ -1,0 +1,7 @@
+{
+  "name": "mi-prueba-ionic-con-jsx",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
